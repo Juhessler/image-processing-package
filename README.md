@@ -1,9 +1,26 @@
-# package_name
+# Projeto: Pacote de Processamento de Imagens<b/>
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+### Autora do Projeto: Karina Kato<b/>
+
+### Aula: Coding Lab PRO - Digital Innovation One
+
+# Descrição: <b/>
+
+O pacote "image_processing-test" é usado para:
+
+Módulo "Processing":
+
+	- Correspondência de histograma;
+	- Similaridade estrutural;
+	- Redimensionar imagem;
+
+Módulo "Utils":
+
+	- Ler imagem;
+	- Salvar imagem;
+	- Plotar imagem;
+	- Resultado do gráfico;
+	- Plotar histograma;
 
 ## Installation
 
@@ -21,7 +38,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Juliana Hessler
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
