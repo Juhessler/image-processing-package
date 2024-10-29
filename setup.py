@@ -16,5 +16,5 @@ setup(
     long_description_content_type="text/markdown",
     url="https://https://github.com/Juhessler/image-processing-package.git"
     install_requires=requirements,
-    python_requires='>=3.12',
+    python_requires='>=3.8',
 )
